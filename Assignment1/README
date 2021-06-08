@@ -4,7 +4,7 @@ ID: 0969863
 ##########
 Using a doubly linked list we simulate traffic at an intersection with the information on each car provided by an input file. In order to do this we must parse the file and implement the list ADT and using function pointers we pass in functions to the ADT all while under a simulation clock.  
 ##########
-How to run: run the make to execute the program.
+How to run: run the make and change the directory to bin to execute the program.
 	    Use "make clean" to clear the object files. 
 ##########
 NO OPTIONAL FEATURES!
