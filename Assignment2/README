@@ -1,0 +1,15 @@
+##########
+Name: Gurtej Dhami
+ID: 0969863
+##########
+Using a queue we simulate patients checking in at a hospital with the information on each patient provided by an input file, and also by allowing the user to enter patients as well. In order to do this we must parse the file and implement the queue ADT and using function pointers we pass in functions to the ADT all while under a simulation clock.  
+##########
+How to run: run the make and change the directory to bin to execute the program.
+	    Use "make clean" to clear the object files. 
+##########
+NO OPTIONAL FEATURES!
+##########
+Assumptions: All patients arrive at the same time.
+
+Limitations: No limitations.
+##########
