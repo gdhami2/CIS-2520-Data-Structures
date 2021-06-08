@@ -1,0 +1,16 @@
+##########
+Name: Gurtej Dhami
+ID: 0969863
+##########
+Using a hash table ADT we are to develope a program that spell checks each entry in a file,
+with all dictionary words being placed into the hash table.  
+##########
+How to run: run the make and change the directory to bin to execute the program.
+	    Use "make clean" to clear the object files. 
+##########
+NO OPTIONAL FEATURES!
+##########
+Assumptions: No assumptions were made.
+
+Limitations: No limitations.
+##########
