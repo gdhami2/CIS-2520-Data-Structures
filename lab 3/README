@@ -1,0 +1,15 @@
+##########
+Name: Gurtej Dhami
+ID: 0969863
+##########
+1) The benefit of testing with multiple data types is it creates a more versatile program in the 	end as more data types increase the number of operations required thus the meaning of the 	data along with its storage must be interpreted. 
+##########
+2) To test the print function you could pass an empty list and confirm that it does not print out 	anything. One could also check if the printed terms are in the correct order or even if all 	the items in the list have been printed out. 
+##########
+3) No the getFromFront function does not remove the first element in the list which can be proven 	by running:	
+			Book *book = getFromFront(l1);
+    			printForward(l1);
+	
+	This will produce the book list with the first element included.
+
+##########

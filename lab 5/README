@@ -1,0 +1,17 @@
+##########
+Name: Gurtej Dhami
+ID: 0969863
+##########
+Implement an integer stack and build a container and be able to utilize the operations from the stack interface.
+
+The program will use a single stack to implement the game.
+##########
+How to run: run the make and chane the directory to bin to execute the program.
+	    Use "make clean" to clear the object files. 
+##########
+NO OPTIONAL FEATURES!
+##########
+Assumptions: no assumptions were made.
+
+Limitations: The operation function for "pop" was provided beforehand thus creating a set 		     algorithm.
+##########

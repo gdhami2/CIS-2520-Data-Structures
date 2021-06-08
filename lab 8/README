@@ -1,0 +1,15 @@
+##########
+Name: Gurtej Dhami
+ID: 0969863
+##########
+User can input and create the size of the array and choose a sorting method for the array.
+##########
+How to run: run the make and chane the directory to bin to execute the program.
+	    Use "make clean" to clear the object files. 
+##########
+NO OPTIONAL FEATURES!
+##########
+Assumptions: no assumptions were made.
+
+Limitations: The only methods of sorting are bubble sort and insert sort.
+##########

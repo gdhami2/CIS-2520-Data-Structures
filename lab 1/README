@@ -1,0 +1,17 @@
+##########
+Name: Gurtej Dhami
+ID: 0969863
+##########
+The store struct contains 1 datas that points to either the book struct or the boardgame struct and has a function pointer that points to the output function. 
+
+The main allocates the input data to the structs and calls upon the output function to print information on the store struct.
+##########
+How to run: run the make and chane the directory to bin to execute the program.
+	    Use "make clean" to clear the object files. 
+##########
+NO OPTIONAL FEATURES!
+##########
+Assumptions: no assumptions were made.
+
+Limitations: The store is only able to hold information from one struct at a time.
+##########
