@@ -1,0 +1,14 @@
+W L 14
+N R 33
+S F 45
+E R 2
+W R 3
+W F 1
+E L 9
+N R 11
+E F 76
+W R 8
+N F 23
+S R 3
+W L 62
+S L 9

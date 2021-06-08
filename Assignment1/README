@@ -1,0 +1,19 @@
+##########
+Name: Gurtej Dhami
+ID: 0969863
+##########
+Using a doubly linked list we simulate traffic at an intersection with the information on each car provided by an input file. In order to do this we must parse the file and implement the list ADT and using function pointers we pass in functions to the ADT all while under a simulation clock.  
+##########
+How to run: run the make and change the directory to bin to execute the program.
+	    Use "make clean" to clear the object files. 
+##########
+NO OPTIONAL FEATURES!
+##########
+Assumptions: No further assumptions were made that were not already listed in the assignment 	          outline.
+
+Limitations: Some limitations include:
+             -Only 1 car can enter the intersection at a time.
+             -Vehicles may not turn right on a red light.
+             -Only cars going left may commence a turn at the start of a yellow light 
+              and only if they are the first car in the lineup when it went yellow.
+##########
